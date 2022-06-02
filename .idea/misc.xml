@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background_chat_input.xml" value="0.1435" />
+        <entry key="app/src/main/res/drawable/background_content_bottom.xml" value="0.162" />
+        <entry key="app/src/main/res/drawable/background_content_top.xml" value="0.1435" />
+        <entry key="app/src/main/res/drawable/background_icon.xml" value="0.204" />
+        <entry key="app/src/main/res/drawable/background_image.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable/background_input.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/background_received_message.xml" value="0.1435" />
+        <entry key="app/src/main/res/drawable/background_sent_message.xml" value="0.1435" />
+        <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.204" />
+        <entry key="app/src/main/res/drawable/ic_notification.xml" value="0.1335" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.3421875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.31840667724609373" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_sing_up.xml" value="0.31302083333333336" />
+        <entry key="app/src/main/res/layout/activity_users.xml" value="0.2545289855072464" />
+        <entry key="app/src/main/res/layout/item_container_received_message.xml" value="0.29375" />
+        <entry key="app/src/main/res/layout/item_container_recent_conversion.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/layout/item_container_sent_message.xml" value="0.29375" />
+        <entry key="app/src/main/res/layout/item_container_user.xml" value="0.2609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
