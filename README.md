@@ -9,7 +9,7 @@ Prerequisites:
   configuration of Firebase files and corresponding SDK requires less coding now but on Firebase website users are still advised to follow the old steps.
   Therefore, it is advisable to set up Firebase through Android Studio IDE.
   
-2) Set up service key for the push notification feature:
+2) Set up server key for the push notification feature:
 
 On Firebase go to the project setting -> open Cloud Messaging tab -> copy a server key -> Open Utilities folder in a project (in Android Studio IDE) ->
 pasted copied key in Constants.java (make sure "key=" is written at the beginning)
